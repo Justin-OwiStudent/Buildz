@@ -16,7 +16,7 @@
 <p align="center">
 
   <a href="https://github.com/MikeMaynard14/termoneexample">
-    <img src="src/assets/mascot.svg" alt="Logo" width="140" height="140">
+    <img src="https://drive.google.com/drive/search?q=app" alt="Logo" width="140" height="140">
   </a>
   
   <h3 align="center">Buildz</h3>
